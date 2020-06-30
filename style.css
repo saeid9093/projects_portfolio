@@ -66,18 +66,21 @@ p{
     background-position: left;
 }
 
-#full_stack{
+#full_stack {
     border-left: 7px solid;
     border-image: linear-gradient(#FF9874, #FF6D50);
     border-image-slice: 1;
+    padding-bottom: 74px;
 }
 
-#baby_dev{
+#baby_dev {
     border-left: 7px solid;
     border-image: linear-gradient(#0005FF, #00EBFF);
-    border-image-slice: 1; 
+    border-image-slice: 1;
+    padding-bottom: 100px;
 }
 
 footer p{
-    text-align: center;;
+    text-align: center;
+    font-size: 17px;
 }
